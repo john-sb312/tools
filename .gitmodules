@@ -1,0 +1,15 @@
+[submodule "nishang"]
+	path = nishang
+	url = git@github.com:samratashok/nishang
+[submodule "PowerShell-Suite"]
+	path = PowerShell-Suite
+	url = git@github.com:FuzzySecurity/PowerShell-Suite
+[submodule "PowerSploit"]
+	path = PowerSploit
+	url = git@github.com:ZeroDayLab/PowerSploit
+[submodule "mimikatz"]
+	path = mimikatz
+	url = https://gitlab.com/kalilinux/packages/mimikatz
+[submodule "windows-binaries"]
+	path = windows-binaries
+	url = https://gitlab.com/kalilinux/packages/windows-binaries

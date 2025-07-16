@@ -13,3 +13,18 @@
 [submodule "windows-binaries"]
 	path = windows-binaries
 	url = https://gitlab.com/kalilinux/packages/windows-binaries
+[submodule "PEASS-ng"]
+	path = PEASS-ng
+	url = https://github.com/peass-ng/PEASS-ng
+[submodule "Priv2Admin"]
+	path = Priv2Admin
+	url = https://github.com/gtworek/Priv2Admin
+[submodule "psgetsystem"]
+	path = psgetsystem
+	url = https://github.com/decoder-it/psgetsystem
+[submodule "RunasCs"]
+	path = RunasCs
+	url = https://github.com/antonioCoco/RunasCs
+[submodule "Ghostpack-CompiledBinaries"]
+	path = Ghostpack-CompiledBinaries
+	url = https://github.com/r3motecontrol/Ghostpack-CompiledBinaries
